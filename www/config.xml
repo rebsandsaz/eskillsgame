@@ -4,9 +4,11 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<name>eskillsgame</name>
+	<name>Rebecca and Sarah's game </name>
 		<gap:platform name="android" />
-		<gap:platform name="ios" />
+<description>this Eskimos game was developed by Rebecca and Sarah for IT girls 2014!</description>
+		<gap:platform name="android" />
+                <gap:platform name="iOS"/>
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
 		<icon src="icon.png" />
